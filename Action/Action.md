@@ -4,4 +4,6 @@ Action在Redux是一个状态的承载体而言，在Redux中状态是不可变�
 ## Action 创建
 
 ```
+function CreateAction1(name){}
 ```
+
