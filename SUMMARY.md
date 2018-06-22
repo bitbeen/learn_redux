@@ -1,3 +1,2 @@
 # Table of content
-
-* [First Chapter](chapter1.md)
+* (一) 基本概念
