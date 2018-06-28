@@ -1,4 +1,13 @@
 # 为什么要学习Redux
-在进行区块链前端开发时候，React让我们快速的构建应用程序，React中数据的共享有state和props两种方式，state代表来自组件内定义的数据，prop代表在组件外定义的数据，组件层次很深时，那组建之间共享数据就会显得很复杂，因为最底层的组件需要最顶层的一个数据，就需要组件之传递多个props，这种传递多个props的方式显然时不合理的。
-Redux作为一个数据源管理工具，可以帮助React解决这个问题。
+* React中数据的共享有state和props两种方式
+    * state代表来自组件内定义的数据
+    * prop代表在组件外定义的数据
+        
+## React全栈学习系列
+* [Redux学习指南](https://github.com/bitbeen/learn_redux.git)
+* React学习指南
+* React-Native学习指南
 
+## 区块链系列
+* [石墨烯技术实战之路](https://github.com/bitbeen/graphene_practice.git)
+* [Nxt区块链实战](https://github.com/bitbeen/nxt_practice.git)
