@@ -5,8 +5,8 @@
         
 ## React全栈学习系列
 * [Redux学习指南](https://github.com/bitbeen/learn_redux.git)
-* React学习指南
-* React-Native学习指南
+* [React学习指南](https://github.com/bitbeen/learn_react.git)
+* [React-Native学习指南](https://github.com/bitbeen/learn_react_native.git)
 
 ## 区块链系列
 * [石墨烯技术实战之路](https://github.com/bitbeen/graphene_practice.git)
